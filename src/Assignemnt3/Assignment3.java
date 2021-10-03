@@ -14,7 +14,8 @@ public class Assignment3 {
              this.val = val;
          }
          ListNode(int val, ListNode next) {
-             this.val = val; this.next = next;
+             this.val = val;
+             this.next = next;
          }
      }
 
